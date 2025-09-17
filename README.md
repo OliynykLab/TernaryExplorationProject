@@ -4,7 +4,7 @@ This project generates ternary phase diagrams with experimental (EDX) sample poi
 
 ---
 
-## 1. Code Adjustments in `Ternary_Plot_Generator.ipynb`  
+## 1. Code Adjustments in [`Ternary_Plot_Generator.ipynb`](https://github.com/OliynykLab/TernaryExplorationProject/blob/main/Ternary_Plot_Generator.ipynb)  
 
 The following lines must be modified for each new system you study, the elements should be plotted accordingly so that the most electronegative elemen is on the bottom left corner, the most electronegative on top and intermediate on the bottom right corner:  
 
